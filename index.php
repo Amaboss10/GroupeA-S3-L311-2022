@@ -5,9 +5,10 @@
 	<title>Météo</title>
 	<link rel="stylesheet" href="assets/css/import.css" />
 	<link rel="stylesheet" href="assets/css/reset.css" />
-	<link rel="stylesheet" href="assets/css/preloader.csss" />
+	<link rel="stylesheet" href="assets/css/preloader.css" />
 	<link rel="stylesheet" href="assets/css/style.css" />
-	<script src='assets/js/script.js'></script>
+	
+	
 <head>
 <body>
 
@@ -124,7 +125,8 @@
 		    </div>
 		</section>
 	</div>
-	<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+	<script src='assets/js/script.js'></script>
+	<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
 	
 </body>
 </html>   
