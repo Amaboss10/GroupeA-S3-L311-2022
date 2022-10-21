@@ -11,7 +11,8 @@
 	
 <head>
 <body>
-
+	 <!-- Ajout d'un loader avant le chargement de la page
+	  qui affiche un soleil qui fait des rotations --> 
 	<div class="preloader">
 		<div class="preloader-top">
 			<div class="preloader-top-sun">
@@ -34,8 +35,9 @@
 		</div>
 	</div>
 
-	<div class="wrapper">
-		<section class="bordure">
+	<div class="wrapper"> <!-- composer de 3 sections qui donne les informations
+							qui donnent les informations de la meteo du jour -->
+		<section class="bordure"> 
 		    <p>Météo</p>
 		</section>
 		<section class="contenu">
@@ -118,7 +120,7 @@
 			    	Description : Ensoleillé
 			    </div>
 			</div>
-		    <div class="bullets">
+		    <div class="bullets"> <!--permet de se deplacer entre les sections -->
 	    		<span class="entypo-record" data-cible="0"></span>
 	    		<span class="entypo-record" data-cible="1"></span>
 	    		<span class="entypo-record" data-cible="2"></span>
